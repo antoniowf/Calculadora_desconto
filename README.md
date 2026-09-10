@@ -28,6 +28,8 @@ python __main__.py
 ```
 
 Informe o valor da compra quando solicitado. Após o cálculo, escolha `S` para realizar outra compra ou qualquer outra opção para encerrar.
+## Print
+![print](./Images/image.png)
 
 ## Exemplo
 
