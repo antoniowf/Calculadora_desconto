@@ -44,6 +44,7 @@ Total: R$255.00
 semana06/
 ├── __main__.py
 ├── Images/
+│   ├── image.png
 │   └── logo.png
 └── README.md
 ```
